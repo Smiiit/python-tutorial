@@ -18,3 +18,22 @@ Multi line comments also know as docker string
 # camelCase = 'This is the camelCase naming for variables'
 
 # PascalCase = 'This is the Pascal Case naming for the variables'
+
+
+# Data Types
+
+# Numbers:
+
+# ------- INT -------
+# one = 1
+# print(type(one))
+
+# ------ FLOAT ------
+# TwoPointThree = 2.3
+# print(type(TwoPointThree))
+
+# ----- COMPLEX ----- which is an imaginary datatype used by keeping "j" at the last of word or number
+# ImaginaryValue = ksdjskldslj    # string is not allowed in imaginery value only numbers and float can be imaginery value
+
+# ImaginaryValue = 12.023232322222222222222222222222222222222222222222j
+# print(type(ImaginaryValue))
